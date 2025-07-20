@@ -147,6 +147,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Custom AI training options
 - [ ] White-label solutions
 
+docker-compose up -d
 ## 📊 Browser Support
 
 - ✅ Chrome (latest)
